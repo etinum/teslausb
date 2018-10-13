@@ -7,7 +7,7 @@ This repo contains steps and scripts originally from [this thread on Reddit]( ht
 
 The original post on Reddit assumed that the archive would be hosted on Windows and that the Pi would be set up using a Windows machine but this Git repo welcomes the contribution of instructions for other platforms.
 
-TODO/Asks
+TODO/Asks -
 
 * Script to make this easy to get going. Ideally supports multiple targets (see further TODO/Asks)
 * Copy to AWS S3 / Google Drive / Etc
